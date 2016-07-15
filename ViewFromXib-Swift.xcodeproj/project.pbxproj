@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E15077171D394CF30021E153 /* ViewFromXib.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewFromXib.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E15077171D394CF30021E153 /* ViewFromXib-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ViewFromXib-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E150771A1D394CF30021E153 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E150771C1D394CF30021E153 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E150771F1D394CF30021E153 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		E15077181D394CF30021E153 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E15077171D394CF30021E153 /* ViewFromXib.app */,
+				E15077171D394CF30021E153 /* ViewFromXib-Swift.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E15077161D394CF30021E153 /* ViewFromXib */ = {
+		E15077161D394CF30021E153 /* ViewFromXib-Swift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E15077291D394CF30021E153 /* Build configuration list for PBXNativeTarget "ViewFromXib" */;
+			buildConfigurationList = E15077291D394CF30021E153 /* Build configuration list for PBXNativeTarget "ViewFromXib-Swift" */;
 			buildPhases = (
 				E15077131D394CF30021E153 /* Sources */,
 				E15077141D394CF30021E153 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = ViewFromXib;
+			name = "ViewFromXib-Swift";
 			productName = ViewFromXib;
-			productReference = E15077171D394CF30021E153 /* ViewFromXib.app */;
+			productReference = E15077171D394CF30021E153 /* ViewFromXib-Swift.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E15077121D394CF30021E153 /* Build configuration list for PBXProject "ViewFromXib" */;
+			buildConfigurationList = E15077121D394CF30021E153 /* Build configuration list for PBXProject "ViewFromXib-Swift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E15077161D394CF30021E153 /* ViewFromXib */,
+				E15077161D394CF30021E153 /* ViewFromXib-Swift */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 				INFOPLIST_FILE = ViewFromXib/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = dose.ViewFromXib;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ViewFromXib-Swift";
 			};
 			name = Debug;
 		};
@@ -271,14 +271,14 @@
 				INFOPLIST_FILE = ViewFromXib/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = dose.ViewFromXib;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "ViewFromXib-Swift";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E15077121D394CF30021E153 /* Build configuration list for PBXProject "ViewFromXib" */ = {
+		E15077121D394CF30021E153 /* Build configuration list for PBXProject "ViewFromXib-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E15077271D394CF30021E153 /* Debug */,
@@ -287,13 +287,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E15077291D394CF30021E153 /* Build configuration list for PBXNativeTarget "ViewFromXib" */ = {
+		E15077291D394CF30021E153 /* Build configuration list for PBXNativeTarget "ViewFromXib-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E150772A1D394CF30021E153 /* Debug */,
 				E150772B1D394CF30021E153 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

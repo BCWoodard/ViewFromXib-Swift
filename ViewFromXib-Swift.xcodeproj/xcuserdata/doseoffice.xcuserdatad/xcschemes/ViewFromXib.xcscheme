@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E15077161D394CF30021E153"
-               BuildableName = "ViewFromXib.app"
-               BlueprintName = "ViewFromXib"
-               ReferencedContainer = "container:ViewFromXib.xcodeproj">
+               BuildableName = "ViewFromXib-Swift.app"
+               BlueprintName = "ViewFromXib-Swift"
+               ReferencedContainer = "container:ViewFromXib-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E15077161D394CF30021E153"
-            BuildableName = "ViewFromXib.app"
-            BlueprintName = "ViewFromXib"
-            ReferencedContainer = "container:ViewFromXib.xcodeproj">
+            BuildableName = "ViewFromXib-Swift.app"
+            BlueprintName = "ViewFromXib-Swift"
+            ReferencedContainer = "container:ViewFromXib-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E15077161D394CF30021E153"
-            BuildableName = "ViewFromXib.app"
-            BlueprintName = "ViewFromXib"
-            ReferencedContainer = "container:ViewFromXib.xcodeproj">
+            BuildableName = "ViewFromXib-Swift.app"
+            BlueprintName = "ViewFromXib-Swift"
+            ReferencedContainer = "container:ViewFromXib-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E15077161D394CF30021E153"
-            BuildableName = "ViewFromXib.app"
-            BlueprintName = "ViewFromXib"
-            ReferencedContainer = "container:ViewFromXib.xcodeproj">
+            BuildableName = "ViewFromXib-Swift.app"
+            BlueprintName = "ViewFromXib-Swift"
+            ReferencedContainer = "container:ViewFromXib-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
